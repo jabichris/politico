@@ -308,7 +308,7 @@ a {
 }
 
 #footer .col ul li:hover {
-  color: #ffffff;
+  color: #000000;
   transition: .1s;
   -webkit-transition: .1s;
   -moz-transition: .1s;

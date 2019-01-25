@@ -45,7 +45,9 @@ a {
 #logo span{
     position: relative;
     top: -20px;
-    
+    font-weight:bold;
+    font: italic bold 24px/60px Georgia, serif;
+    color: #38a1f3;
 }
 .menu {
   display: flex;

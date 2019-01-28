@@ -8,14 +8,6 @@ div.login_container {
     margin: 0 auto; 
     text-align: left; 
     }
-/* h4 {
-    font-family: 'Roboto', sans-serif, 'arial';
-    font-weight: 400;
-    font-size: 20px;
-    color: #ffffff;
-    line-height: 1.5;
-} */
-/* ///// inputs /////*/
 
 input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid ~ label {
     font-size: 0.75em;

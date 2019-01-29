@@ -4,7 +4,6 @@ h2 {
   vertical-align: center;
   text-align: center;
 }
-
 html, body {
   margin: 0;
   height: 100%;
@@ -211,11 +210,11 @@ a {
 .profilepic{
   align-items: center;
   justify-content: center;
-  padding: 2px;
+  padding: 0px;
 }
 .profilepic div img{
-  max-width: 20%;
-  max-height: 20%;
+  max-width: 40%;
+  max-height:40%;
   height: auto;
   
 }
@@ -232,8 +231,8 @@ a {
   list-style-type: none;
 }
 .side-menu nav ul li:hover{
-  border-left: solid 4px #f48942;
-  color: #f48942;
+  border-left: solid 4px #38A1F3;
+  color: #38A1F3;
 }
 
 .flecha{
